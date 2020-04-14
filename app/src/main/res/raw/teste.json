@@ -1,0 +1,35 @@
+{
+	"dono" : {
+		"nome" : "Ananias",
+		"sobrenome" : "Lima",
+		"cidade" : "Bsb",
+		"idade" : 58,
+	},
+
+	"qtdDeCaes" : "3",
+	"racas" : [
+		"beagle",
+		"bulldog",
+		"rottweiler"
+	],
+	"caes": [
+		[
+			"Buck",
+			"beagle",
+			4,
+			7.3
+		],
+		[
+			"Gizmo",
+			"bulldog",
+			1,
+			5.2
+		],
+		[
+			"Tank",
+			"rottweiler",
+			2,
+			6.4
+		]
+	]
+}
